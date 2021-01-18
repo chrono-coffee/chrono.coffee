@@ -10,9 +10,7 @@
 * 	my code
 *
 * ======================================================= */
-::-webkit-scrollbar{
-  display: none;
-}
+
 
 .greeting h1{
   color: #ddd;
